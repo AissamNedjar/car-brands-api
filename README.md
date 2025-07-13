@@ -25,7 +25,10 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-ثم افتح: [http://localhost:8000](http://localhost:8000)
+ثم افتح في المتصفح:
+
+- 🔗 [http://localhost:8000/brands](http://localhost:8000/brands) – لعرض جميع الماركات
+- 🔗 [http://localhost:8000/brands/1](http://localhost:8000/brands/1) – لعرض تفاصيل ماركة واحدة (مع نسخها ومحركاتها)
 
 ## 🛠️ مبني باستخدام
 
